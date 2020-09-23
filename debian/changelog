@@ -1,0 +1,37 @@
+ttf-deepin-opensymbol (2.2) unstable; urgency=medium
+
+  * release 2.2
+
+ -- Deepin Packages Builder <packages@deepin.com>  Tue, 21 Feb 2017 14:55:18 +0800
+
+ttf-deepin-opensymbol (2.1-1) unstable; urgency=medium
+
+  * release 2.1 
+  * add opensymbol 6 pack.
+
+ -- Deepin Package Builder <packages@deepin.com>  Wed, 15 Feb 2017 11:20:37 +0800
+
+ttf-deepin-opensymbol (2.0-1) unstable; urgency=medium
+
+  * release version 2.0.
+  * add opensymbol 4, 5 pack.
+
+ -- Deepin Package Builder <packages@deepin.com>  Tue, 14 Feb 2017 11:07:47 +0800
+
+ttf-deepin-opensymbol (1.0~alpha-1) unstable; urgency=medium
+
+  * bump versiont to release 1.0. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Thu, 04 Aug 2016 09:56:22 +0800
+
+ttf-deepin-opensymbol (0.20160605-2) unstable; urgency=medium
+
+  * alias to Wingdings family. 
+
+ -- Deepin Packages Builder <packages@linuxdeepin.com>  Wed, 15 Jun 2016 14:14:21 +0800
+
+ttf-deepin-opensymbol (0.20160605-1) unstable; urgency=low
+
+  * Initial release.
+
+ -- lilongyu <lilongyu@deepin.com>  Mon, 13 Jun 2016 13:55:25 +0800
